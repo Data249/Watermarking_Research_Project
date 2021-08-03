@@ -63,11 +63,5 @@ Six watermarking systems are implemented. They are:
 Analyzing the watermarking systems using PSNR and MSE values.
 
   
-If you have any doubts or facing issues, please contact us
-  
-  * Thrivikram Gujarathi (thrivikramlycan@gmail.com)
 
-  * Siva Bathala (shivachowdary511@gmail.com)
-
-  * Arup Mazumder (arupseu@gmail.com)
   
